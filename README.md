@@ -27,8 +27,6 @@ Cleaned Dirty Document examples:
 
 ![alt text](https://github.com/DevMilk/Document-Cleaner/blob/master/Results/result2.png)
 
-![alt text](https://github.com/DevMilk/Document-Cleaner/blob/master/Results/result3.png)
-
 ![alt text](https://github.com/DevMilk/Document-Cleaner/blob/master/Results/result4.png)
 
 ![alt text](https://github.com/DevMilk/Document-Cleaner/blob/master/Results/result5.png)
